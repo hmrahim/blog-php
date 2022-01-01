@@ -1,0 +1,127 @@
+.headersection {
+    background: #02610d none repeat scroll 0 0;
+    color: #fff;
+}
+.icon a {
+    background: #11b124 none repeat scroll 0 0;
+    border-radius: 2px;
+    color: #fff;
+    display: block;
+    float: left;
+    font-size: 20px;
+    margin-left: 3px;
+    padding: 5px 10px;
+}
+.navsection {
+    background: none repeat scroll 0 0 #11b124;
+    min-height: 38px;
+}
+
+
+.navsection ul li:first-child {
+    border-left: 0px solid #fdfdfd;
+}
+.navsection ul li {
+    border-left: 1px solid #f7f6f6;
+    border-right: 1px solid #f3f2f1;
+    display: block;
+    float: left;
+    position: relative;
+}
+
+.maincontent {
+    background: #26af2369 none repeat scroll 0 0;
+    border: 1px solid #ded4c5;
+    float: left;
+    margin: 0 15px 15px 0;
+    padding: 8px 15px;
+    width: 606px;
+}
+.sidebar {
+    background: #26af2369 none repeat scroll 0 0;
+    border: 1px solid #ded4c5;
+    float: right;
+    margin-bottom: 15px;
+    margin-top: 0;
+    padding: 10px;
+    width: 253px;
+}
+.samesidebar h2 {
+    background: #02610D none repeat scroll 0 0;
+    border-bottom: 2px solid #11B124;
+    color: #fff;
+    margin-bottom: 8px;
+    padding: 10px;
+}
+.contentsection {
+    background: #13b755c7 none repeat scroll 0 0;
+    border: 1px solid #ca932f;
+    padding: 15px;
+}
+.footersection {
+    height: 90px;
+    background: #02610D;
+    text-align: center;
+}
+.samepost h2 a {
+    color: #fff;
+    text-decoration: none;
+}
+.samepost h4 a, .about h4 a {
+    text-decoration: none;
+    color: #bf1f5a;
+}
+.readmore a {
+    background: #45C578 none repeat scroll 0 0;
+    border: 1px solid #fff;
+    border-radius: 3px;
+    color: #fff;
+    display: block;
+    font-size: 17px;
+    padding: 4px 8px;
+    text-decoration: none;
+}
+.readmore a:hover {
+    color:#02610D
+}
+.pagination a {
+    text-decoration: none;
+    background: #02610D;
+    border: 1px solid #45C578;
+    padding: 2px 10px;
+    margin-left: 2px;
+    border-radius: 3px;
+    color: #fff;
+}
+.pagination a:hover{
+    background:#45C578;
+    color:#fff;
+  }
+  .searchbtn input[type="submit"] {
+    background: #11B124 none repeat scroll 0 0;
+    border: 1px solid #45C578;
+    border-radius: 3px;
+    font-size: 18px;
+    height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 0;
+     
+    color: #fff;
+    cursor: pointer;
+}
+
+.searchbtn input[type="submit"]:hover{
+	background: #02610D none repeat scroll 0 0;
+	border: 1px solid #fff;
+	color:#fff;
+}
+.searchbtn input[type="text"] {
+    border: 1px solid #45C578;
+    width: 200px;
+    background: #45C578;
+    font-size: 16px;
+    height: 20px;
+  }
+  
+

@@ -1,0 +1,116 @@
+.headersection {
+    background: #ca932f none repeat scroll 0 0;
+    color: #fff;
+}
+.icon a {
+    background: #a56e0a none repeat scroll 0 0;
+    border-radius: 2px;
+    color: #fff;
+    display: block;
+    float: left;
+    font-size: 20px;
+    margin-left: 3px;
+    padding: 5px 10px;
+}
+.navsection {
+    background: none repeat scroll 0 0 #e6af4b;
+    min-height: 38px;
+}
+.navsection ul li:first-child {
+    border-left: 0px solid #fdc662;
+}
+.navsection ul li {
+    border-left: 1px solid #fdc662;
+    border-right: 1px solid #c18a26;
+    display: block;
+    float: left;
+    position: relative;
+}
+.maincontent {
+    background: #fef4e5 none repeat scroll 0 0;
+    border: 1px solid #ded4c5;
+    float: left;
+    margin: 0 15px 15px 0;
+    padding: 8px 15px;
+    width: 606px;
+}
+
+.sidebar {
+    background: #fef4e5 none repeat scroll 0 0;
+    border: 1px solid #ded4c5;
+    float: right;
+    margin-bottom: 15px;
+    margin-top: 0;
+    padding: 10px;
+    width: 253px;
+}
+.samesidebar h2 {
+    background: #e6af4b none repeat scroll 0 0;
+    border-bottom: 2px solid #b7801c;
+    color: #333;
+    margin-bottom: 8px;
+    padding: 10px;
+}
+
+.contentsection {
+    background: #ffffff none repeat scroll 0 0;
+    border: 1px solid #ca932f;
+    padding: 15px;
+}
+.footersection {
+    height: 90px;
+    background: #B7801C;
+    text-align: center;
+}
+.samepost h2 a {
+    color: #ac7511;
+    text-decoration: none;
+}
+.samepost h4 a, .about h4 a {
+    text-decoration: none;
+    color: #3399FF;
+}
+.readmore a {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #b7801c;
+    border-radius: 3px;
+    color: #b7801c;
+    display: block;
+    font-size: 17px;
+    padding: 4px 8px;
+    text-decoration: none;
+}
+.pagination a {
+    text-decoration: none;
+    background: #E6AF4B;
+    border: 1px solid #B7801C;
+    padding: 2px 10px;
+    margin-left: 2px;
+    border-radius: 3px;
+    color: #000;
+}
+
+.pagination a:hover {
+    background: #9c6e19;
+    color: #fff;
+}
+input[type="submit"] {
+    background: #b7801c none repeat scroll 0 0;
+    border: 1px solid #e6af4b;
+    color: #fff;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 1px 10px;
+}
+.searchbtn input[type="submit"]:hover{
+	background: #b7801c none repeat scroll 0 0;
+	border: 1px solid #e6af4b;
+	color:#fff;
+}
+.searchbtn input[type="text"] {
+    border: 1px solid #A56E0A;
+    width: 200px;
+    background: #FFE07C;
+    font-size: 16px;
+    height: 20px;
+  }
